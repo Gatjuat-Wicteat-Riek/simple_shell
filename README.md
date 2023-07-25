@@ -12,3 +12,35 @@ Use system calls only when you need to (why?)
 Write a README with the description of your project
 You should have an AUTHORS file at the root of your repository, listing all individuals 
 having contributed content to the repository. Format, see Docker
+
+The follwing are the files created during the project of simple shell.
+
+builtin0.c  
+environ.c  
+errs.c  
+getEv.c    
+getLine.c  
+list0.c  
+main.c    
+pasers.c   
+realoc.c  
+shellopp.c  
+string.c     
+varss.c
+atoi.c  
+builtin.c  
+err1.c     
+exit.c  
+getinfo.c  
+history.c  
+lists.c  
+memmory.c  
+README.md  
+shell.h   
+string0.c   
+tokeniser.c
+
+this is project is done entirely by:
+Name : Gatjuat Wicteat Riek.
+Github: https://github.com/Gatjuat-Wicteat-Riek/simple_shell.git
+Email: gatjuatriek@gmail.com
